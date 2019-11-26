@@ -7,10 +7,6 @@ import java.net.HttpURLConnection;
 import java.net.URLEncoder;
 import java.util.HashMap;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
 
 public class RequestParams {
     private HashMap<String, String> params;

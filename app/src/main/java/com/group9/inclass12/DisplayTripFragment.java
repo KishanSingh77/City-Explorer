@@ -19,10 +19,6 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.util.ArrayList;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
 
 public class DisplayTripFragment extends Fragment implements OnMapReadyCallback {
 

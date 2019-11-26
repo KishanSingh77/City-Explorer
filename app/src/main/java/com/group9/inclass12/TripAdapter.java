@@ -9,10 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import java.util.ArrayList;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
+
 
 public class TripAdapter extends RecyclerView.Adapter<TripAdapter.ViewHolder> {
 

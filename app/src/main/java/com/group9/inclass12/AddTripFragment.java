@@ -25,10 +25,7 @@ import java.net.MalformedURLException;
 import java.net.SocketTimeoutException;
 import java.net.URL;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
+
 
 public class AddTripFragment extends Fragment {
 

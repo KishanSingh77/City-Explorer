@@ -27,10 +27,7 @@ import java.net.SocketTimeoutException;
 import java.net.URL;
 import java.util.ArrayList;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
+
 
 public class EditTripFragment extends Fragment {
 

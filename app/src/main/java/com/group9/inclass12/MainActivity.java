@@ -16,10 +16,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Locale;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
 
 public class MainActivity extends AppCompatActivity implements TripsListFragment.OnTripsListFragmentInteractionListener, AddTripFragment.OnAddTripFragmentInteractionListener {
 

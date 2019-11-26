@@ -2,10 +2,6 @@ package com.group9.inclass12;
 
 import java.util.ArrayList;
 
-//In-Class12
-//Group 9
-//Rockford Stoller
-//Ryan Swaim
 
 public class Trip {
 
