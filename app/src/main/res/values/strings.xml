@@ -29,4 +29,5 @@
     <string name="locations_label">Locations:</string>
     <string name="pick_date_text">Pick Date</string>
     <string name="change_date_text">Change Date</string>
+    <string name="search_btn">search</string>
 </resources>
