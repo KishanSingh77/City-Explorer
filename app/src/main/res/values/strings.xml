@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">InClass12</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key">AIzaSyDNRWhY4cknLkual-ChDdQj1sS_buRNUHg</string>
+    <string name="city_search_hint">Search City</string>
+    <string name="trip_name_hint">Trip Name</string>
+    <string name="search_button_text">Search and Add Trip</string>
+
+    <string-array name="location_categories">
+        <item>airport</item>
+        <item>amusement_park</item>
+        <item>aquarium</item>
+        <item>car_rental</item>
+        <item>museum</item>
+        <item>police</item>
+        <item>city_hall</item>
+        <item>parking</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_trip_text">Add Trip</string>
+    <string name="add_location_text">Add Location</string>
+    <string name="finish_text">Finish</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="trip_name_text">Trip Name:</string>
+    <string name="destination_city_text">Destination City:</string>
+    <string name="planned_date_text">Planned Date:</string>
+    <string name="locations_label">Locations:</string>
+    <string name="pick_date_text">Pick Date</string>
+    <string name="change_date_text">Change Date</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366939174499",
+    "firebase_url": "https://cityexplorer-9d43e.firebaseio.com",
+    "project_id": "cityexplorer-9d43e",
+    "storage_bucket": "cityexplorer-9d43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366939174499:android:bc21b148ea7a6014fb6a56",
+        "android_client_info": {
+          "package_name": "com.group9.inclass12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366939174499-69jhs4jvrd6cn0pk5qas0d8jdbealsng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLWZgS_JZNPdjXnId8XJyd4Nvn4-B5mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366939174499-69jhs4jvrd6cn0pk5qas0d8jdbealsng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
